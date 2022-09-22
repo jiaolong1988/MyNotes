@@ -1,0 +1,124 @@
+{
+  "main": {
+    "id": "62c8926d6e30f23f",
+    "type": "split",
+    "children": [
+      {
+        "id": "40a208c34c930a5b",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "2.笔记/Obsidian插件安装说明.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5738abe5e79cc918",
+    "type": "split",
+    "children": [
+      {
+        "id": "49ab316d88d1183a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7fec83e2af1c86b6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "5372cb36105b4894",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "Nginx",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4beed3a5bcf63495",
+    "type": "split",
+    "children": [
+      {
+        "id": "c636d5036f6817bf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "342f5de63d9eaddd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2.笔记/Obsidian插件安装说明.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ea7f80bbf77553e5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2.笔记/Obsidian插件安装说明.md"
+              }
+            }
+          },
+          {
+            "id": "3b4c8e1e5eb2f81c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "40a208c34c930a5b",
+  "lastOpenFiles": [
+    "2.笔记/Obsidian插件安装说明.md",
+    "1.索引/Obsidian常用.md",
+    "2.笔记/技术/正则表达式.md",
+    "2.笔记/技术/Java 泛型详解.md",
+    "2.笔记/技术/Nginx搭建.md",
+    "2.笔记/技术/Spring Boot 跨域问题.md",
+    "2.笔记/技术/Tomcat 8 部署多端口项目.md",
+    "2.笔记/技术/Vmware 安装Arm架构虚拟机.md",
+    "2.笔记/技术/Oracle JDK 与Open JDK 区别.md",
+    "2.笔记/技术/Linux Shell 文章.md"
+  ]
+}

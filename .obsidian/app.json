@@ -1,0 +1,14 @@
+{
+  "promptDelete": false,
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "2.笔记",
+  "attachmentFolderPath": "3.附件",
+  "useMarkdownLinks": true,
+  "pdfExportSettings": {
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
+}
